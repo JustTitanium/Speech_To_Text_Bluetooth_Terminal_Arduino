@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\me.aflak.libraries\bluetooth\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e1b1b44d81b6efc6573afa7ec6cd669b78a80f">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\me.aflak.libraries-bluetooth-1.2.4_e69f8a94fc9044f691a554c4831e32830db9f70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\me.aflak.libraries\pulltorefresh\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="403a89a8d65c7be6097d6d3b7cf736527fba005b">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\me.aflak.libraries-pulltorefresh-1.0_e4fa989588fa3cff7063d44048bf2c4826ab2f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_7a4ef384c4100d341fb11464429bfe7287107c77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_e7a91202307d23f2902d5ea883f8acd213186cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_86e06563e64a1865c392b224f33f1d310fae09c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_b8a245e52ccd5926d95c854bcac6509c475ac998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_aa0b13380728b2d48ddfe8cd3d3a8b77521491ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_589a1020da4e134c7a89934231d87a370638d176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ff6556b74fd4cec8d54e7f3b75e758ae55f2972a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_d1e0b3fc0c2491da59fe7cf23d761e4e45ac0ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e670a4a09e83a775d7bbc74fe975a06df4528e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_40b3a81a573c4cc581ab7ce21b96d059249c6e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_0c06e65a9e8ce399d8b7b035813dff99c582fcf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_2dbc095c26d6203410b1b8ef11eb54b0da972346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Admin\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_77a62ab4f766d2dc144819febb25f19b5992b931.jar" />
+    </item>
+
+</items>
